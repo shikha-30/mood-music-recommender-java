@@ -22,7 +22,7 @@ Detect mood of user from a sentence
 
 # Project structure: 
 /src
-    Mood music recommender.java 
+    Mood music recommender.java    
 Favourites.txt
 README.md
 
@@ -50,6 +50,16 @@ Open the project in intellIJ or any java IDE will work
 Now go to the src folder
 Run the MoodmusicRecommender.java file 
 Follow the instructions that are present on the screen after running the file
+
+# Implementation 
+The program is purely based on java concepts which uses: 
+HashMap 
+array list 
+scanner 
+file writer and reader 
+keywords which are helping to detect mood 
+The program follows simple structure with switch cases
+
 
 # Testing 
 The program is properly tested if the user enters songs based on mood and then write sad it displayed the songs which are categorised under it 
